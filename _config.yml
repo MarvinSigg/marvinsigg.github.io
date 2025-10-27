@@ -3,5 +3,5 @@ plugins:
 relative_links:
   enabled: true
 include:
-  - Readme.md
+  - README.md
 theme: jekyll-theme-tactile
