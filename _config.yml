@@ -1,7 +1,8 @@
 plugins:
   - jekyll-relative-links
+  - jekyll-remote-theme
 relative_links:
   enabled: true
 include:
   - README.md
-theme: jekyll-theme-midnight
+remote_theme: pages-themes/odin
