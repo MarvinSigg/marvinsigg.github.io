@@ -27,3 +27,6 @@
 ## Extra-academic activities
 - Member of the steering committee for the Physics Students Association of the University of Zurich (FPU), serving as secretary and study room keeper. (2024 - )
 - 10+ years of voluntary service for the local children and youth organization Jungwacht Blauring Wängi. I've served numerous functions as a youth leader in that time, such as club leader, treasurer, secretary, camp organizer and leader, event organization, and group leader. (2015 - )
+
+
+[go back](/README.md)
