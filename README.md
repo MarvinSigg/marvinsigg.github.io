@@ -1,2 +1,2 @@
-# MarvinSigg.github.io
+# marvinsigg.github.io
 Personal website
