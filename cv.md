@@ -1,8 +1,6 @@
 # Curriculum Vitae
 ## Personal information
 - Name: Marvin Sigg
-- Birth year: 2000
-- Citizenship: Swiss
 - Languages: German (native), English (fluent), French (intermediate)
 - Affilitation: University of Zurich (UZH)
 
