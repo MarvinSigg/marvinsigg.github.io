@@ -1,6 +1,6 @@
 # My output
 ## Bachelor thesis in physics
-- [Decomposition of the Hadronic Tensor up to Spin 2](/Thesis_Sigg_final2.pdf) (2024, in revision)
+- [Decomposition of the Hadronic Tensor up to Spin 2](/Thesis_Sigg_final1.pdf) (2024, in revision)
 
 ## Student seminar papers
 The following works are highly derivative. I do not claim ownership of the material presented.
