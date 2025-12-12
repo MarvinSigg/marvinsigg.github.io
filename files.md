@@ -4,7 +4,7 @@
 
 ## Student seminar papers
 The following works are highly derivative. I do not claim ownership of the material presented.
-- There are exactly 27 lines on the cubic (2025, in progress)
+- [The 27 lines on the blown up projective plane](/Talk_Cubic3.pdf) (2025)
 - [Physical Derivation of Index Theorem](/Talk_SpinGeometry.pdf) (2025)
 - [Geometry of the WKB method](/Talk_WKB.pdf) (2025)
 - [The category of 2-dimensional cobordisms 2Cob, Generators and relations of 2Cob](/Talk_2DTQFT.pdf) (2024)
