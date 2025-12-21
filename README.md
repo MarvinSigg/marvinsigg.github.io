@@ -3,4 +3,6 @@ I am Marvin Sigg, a master student in mathematics and physics based in Zurich, S
 
 You can check out my thesis and student seminar papers [here](/files.md), and my CV [here](/cv.md).
 
+[My blog](/blog.md) is a work in progress.
+
 Wanna get in touch? Contact me at marvin dot sigg at uzh dot ch. I am happy to talk about anything maths & physics related!
