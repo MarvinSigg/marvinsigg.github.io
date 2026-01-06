@@ -21,9 +21,10 @@
 
 ## Teaching activities
 - Teaching assistant for PHY117 Physics for Life Sciences 1 (Autumn 2025)
+- Private tutoring for PHY117 Physics for Life Sciences 1 (Spring 2025)
 
 ## Extra-academic activities
-- Member of the steering committee for the Physics Students Association of the University of Zurich (FPU), serving as secretary and study room keeper. (2024 - )
+- Member of the steering committee for the Physics Students Association of the University of Zurich (FPU), serving as secretary and study room keeper. Currently I also write and organise a biannual student pub quiz. (2024 - )
 - 10+ years of voluntary service for the local children and youth organization Jungwacht Blauring Wängi. I've served numerous functions as a youth leader in that time, such as club leader, treasurer, secretary, camp organizer and leader, event organization, and group leader. (2015 - )
 
 
