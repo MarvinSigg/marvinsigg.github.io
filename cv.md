@@ -13,10 +13,11 @@
 - Bachelor thesis in Physics: Decomposition of the Hadronic Tensor up to Spin 2 (2024), advised and supervised by Prof. Adrian Signer
 
 ### Student seminars
+- The 27 lines on the blown up projective plane (MAT507 Algebraic Geometry I, UZH) (2025)
 - Physical Derivation of Index Theorem (MAT782 Spin Geometry, UZH) (2025)
 - The WKB Method (MAT633 Mathematical Field Theory, UZH) (2025)
 - The category of 2-dimensional cobordisms 2Cob, Generators and relations of 2Cob (MAT562 Frobenius Algebras & 2D TQFTs, UZH) (2024)
-- Relativistic corrections in atoms (PHY391 Proseminar in Theoretical Physics, UZH)
+- Relativistic corrections in atoms (PHY391 Proseminar in Theoretical Physics, UZH) (2024)
 - Spectral measures and Spectral Theorem (MAT818 Spectral theory and applications to Quantum Mechanics, UZH) (2024)
 
 ## Teaching activities
