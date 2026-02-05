@@ -20,7 +20,8 @@
 - Relativistic corrections in atoms (PHY391 Proseminar in Theoretical Physics, UZH) (2024)
 - Spectral measures and Spectral Theorem (MAT818 Spectral theory and applications to Quantum Mechanics, UZH) (2024)
 
-## Teaching activities
+## Teaching activitie
+- Teaching assistant for MAT153 Number Theory (Spring 2026)
 - Teaching assistant for PHY117 Physics for Life Sciences 1 (Autumn 2025)
 - Private tutoring for PHY117 Physics for Life Sciences 1 (Spring 2025)
 
