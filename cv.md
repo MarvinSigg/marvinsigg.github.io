@@ -5,7 +5,7 @@
 - Affilitation: University of Zurich (UZH)
 
 ## Education
-- Master of Science in Mathematics (Minor: Physics) at University of Zurich 2024 -
+- Master of Science in Mathematics (Minor: Physics) at University of Zurich 2024 - (projected February 2027)
 - Bachelor of Science in Physics (Minor: Mathematics) at University of Zurich 2020 - 2024
 
 ## Academic output
