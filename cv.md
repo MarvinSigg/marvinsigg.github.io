@@ -22,14 +22,15 @@
 - Relativistic corrections in atoms (PHY391 Proseminar in Theoretical Physics, UZH) (2024)
 - Spectral measures and Spectral Theorem (MAT818 Spectral theory and applications to Quantum Mechanics, UZH) (2024)
 
-## Teaching activitie
+## Teaching activities
 - Teaching assistant for MAT153 Number Theory (Spring 2026)
 - Teaching assistant for PHY117 Physics for Life Sciences 1 (Autumn 2025)
 - Private tutoring for PHY117 Physics for Life Sciences 1 (Spring 2025)
 
 ## Extra-academic activities
 - Member of the steering committee for the Physics Students Association of the University of Zurich (FPU), serving as secretary and study room keeper. Currently I also write and organise a biannual student pub quiz. (2024 - )
-- 10+ years of voluntary service for the local children and youth organization Jungwacht Blauring Wängi. I've served numerous functions as a youth leader in that time, such as club leader, treasurer, secretary, camp organizer and leader, event organization, and group leader. (2015 - )
+- Mentor in several student outreach programs, such as the UZHGYM Buddy Program and the FPU Mentor Program. (2022 - )
+- 10+ years of voluntary service for the local children and youth organization Jungwacht Blauring Wängi. I've served numerous functions as a youth leader in that time, such as club leader, treasurer, secretary, camp organizer and leader, event organization, camp cook, and group leader. (2015 - )
 
 
 [go back](/README.md)
