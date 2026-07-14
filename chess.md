@@ -2,15 +2,9 @@
 
 My favourite players are Mikhail Tal, Daniil Dubov, and Paul Morphy. My favourite opening is the Nimzowitsch–Larsen Attack.
 
-Here is my favourite game that I've played so far:
+Here is my favourite game I've played with white:
 
 ```
-[Date "2025.06.23"]
-[White "Marvin Sigg"]
-[Black "Opponent"]
-[Result "1-0"]
-[TimeControl "36/5400:1800"]
-
 1. Nf3 d5 2. b3 c5 3. Bb2 Nc6 4. e3 Bg4 5. Be2 Nf6 6. O-O e6 7. d4 Qc7 8. Na3
 a6 9. c3 Bd6 10. dxc5 Bxc5 11. c4 Rd8 12. cxd5 Rxd5 13. Qc2 Nb4 14. Qc3 Rh5
 15. h3 Nbd5 16. Qxc5 Qxc5 17. Rac1 Qd6 18. Rc8+ Kd7 19. Rxh8 Bxf3 20.
@@ -24,3 +18,10 @@ Rd2 51. a7 1-0
 
 
 [go back](/README.md)
+
+<!--[Date "2025.06.23"]
+[White "Marvin Sigg"]
+[Black "Opponent"]
+[Result "1-0"]
+[TimeControl "36/5400:1800"]-->
+
