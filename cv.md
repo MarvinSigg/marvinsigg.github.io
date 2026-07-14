@@ -23,9 +23,10 @@
 - Spectral measures and Spectral Theorem (MAT818 Spectral theory and applications to Quantum Mechanics, UZH) (2024)
 
 ## Teaching activities
-- Teaching assistant for MAT153 Number Theory (Spring 2026)
-- Teaching assistant for PHY117 Physics for Life Sciences 1 (Autumn 2025)
-- Private tutoring for PHY117 Physics for Life Sciences 1 (Spring 2025)
+- Teaching assistant for Mathematics in Lean (Summer 2026) at Euler Circle
+- Teaching assistant for MAT153 Number Theory (Spring 2026) at UZH
+- Teaching assistant for PHY117 Physics for Life Sciences 1 (Autumn 2025) at UZH
+- Private tutoring for PHY117 Physics for Life Sciences 1 (Spring 2025) at UZH
 
 ## Extra-academic activities
 - Member of the steering committee for the Physics Students Association of the University of Zurich (FPU), serving as secretary and study room keeper. Currently I also write and organise a biannual student pub quiz. (2024 - )
