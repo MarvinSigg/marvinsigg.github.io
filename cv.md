@@ -5,12 +5,14 @@
 - Affilitation: University of Zurich (UZH)
 
 ## Education
-- Master of Science in Mathematics (Minor: Physics) at University of Zurich 2024 - (projected February 2027)
+- Master of Science in Mathematics (Minor: Physics) at University of Zurich 2025 - (projected April 2027)
+- Additional Requirements in Mathematics at University of Zurich 2024 - 2025
 - Bachelor of Science in Physics (Minor: Mathematics) at University of Zurich 2020 - 2024
 
 ## Academic output
 ### Thesis
-- Bachelor thesis in Physics: Decomposition of the Hadronic Tensor up to Spin 2 (2024), advised and supervised by Prof. Adrian Signer
+- Master thesis in Mathematics: TBA (2027), advised by Dr. Luke Conners, supervised by Prof. Dr. Anna Beliakova
+- Bachelor thesis in Physics: Decomposition of the Hadronic Tensor up to Spin 2 (2024), advised and supervised by Prof. Dr. Adrian Signer
 
 ### Student seminars
 - Solid tumor risks after high doses of ionizing radiation (PHY361 Physics Against Cancer, UZH) (2026) 
@@ -23,13 +25,14 @@
 - Spectral measures and Spectral Theorem (MAT818 Spectral theory and applications to Quantum Mechanics, UZH) (2024)
 
 ## Teaching activities
+- Teaching assistant for MAT159 Foundations of Mathematics 1 (Autumn 2026) at UZH
 - Teaching assistant for Mathematics in Lean (Summer 2026) at Euler Circle
 - Teaching assistant for MAT153 Number Theory (Spring 2026) at UZH
 - Teaching assistant for PHY117 Physics for Life Sciences 1 (Autumn 2025) at UZH
 - Private tutoring for PHY117 Physics for Life Sciences 1 (Spring 2025) at UZH
 
 ## Extra-academic activities
-- Member of the steering committee for the Physics Students Association of the University of Zurich (FPU), serving as secretary and study room keeper. Currently I also write and organise a biannual student pub quiz. (2024 - )
+- Member of the steering committee for the Physics Students Association of the University of Zurich (FPU), serving as secretary and study room keeper. I also wrote and organised a biannual student pub quiz. (2024 - 2026)
 - Mentor in several student outreach programs, such as the UZHGYM Buddy Program and the FPU Mentor Program. (2022 - )
 - 10+ years of voluntary service for the local children and youth organization Jungwacht Blauring Wängi. I've served numerous functions as a youth leader in that time, such as club leader, treasurer, secretary, camp organizer and leader, event organization, camp cook, and group leader. (2015 - )
 
